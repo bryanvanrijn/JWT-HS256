@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
+  <Project Path="Gateway/Gateway.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
